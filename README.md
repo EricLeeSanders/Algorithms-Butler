@@ -1,7 +1,14 @@
 # Algorithms-Butler
-Algorithms from my class at Butler University.
+Some of the algorithms from my class at Butler University.
 
-These algorithms are for the 0-1 Knapsack problem. Given n items with a weight and value, put these items into a knapsack with a maximum weight capacity in order to receive a maximum total value while staying below or at the capacity.
+These algorithms are for the 0-1 Knapsack problem.
+
+Algorithms Used:
+* Dynamic Programming (Knapsack-Dynamic-Simple, Knapsack-Dynamic-Refined)
+* Backtracking (Knapsack-Backtrack)
+* Branch and Bound w/ Priority Queue (Knapsack-Branch-Bound)
+
+Given n items with a weight and value, put these items into a knapsack with a maximum weight capacity in order to receive a maximum total value while staying below or at the capacity.
 
 Example input:
 
